@@ -27,18 +27,25 @@ The LutaML graphical logo is represented through:
   The arrangement of the boxes in a grid echos the ability of data models to
   dictate data into a certain shape.
 
-* The color theme is brownish/yellow, which is the color of earth. The name
-  "LutaML" originates from the Latin word "lutam", for "clay", to reflect that
-  the LutaML stack is inherently designed to be malleable and flexible in
-  creating containers or molding like clay.
+* The color theme is blue/white, which is the color of the blue-white
+  porcelain and kaolin clay. The name "LutaML" originates from the Latin word
+  "lutam", for "clay", to reflect that the LutaML stack is inherently designed
+  to be malleable and flexible in creating containers or molding like clay and
+  its baked form, porcelain.
 
-* 7 of the 9 boxes are colored in brownish/yellow to reflect the shape
-  characteristic of the Han character "土", indicating its basic mission and
-  the ability to be the foundation of data modelling and processing.
+* 7 of the 9 boxes are colored in the combination of blue and white to
+  reflect the shape characteristic of the Han character "土", indicating its
+  basic mission and the ability to be the foundation of data modelling and
+  processing.
 
-* 2 of the 9 boxes are at the edge and are in blue/red colors. The brighter
-  colors indicate that they are extensions of the foundational models and serve
-  different purposes while belonging and aligning to the same LutaML stack.
+* 2 of the 9 boxes are at the edge and are in green/red colors but slightly
+  transparent. The different colors indicate that they are transformed or
+  extended models based on the foundational models, and serve different purposes
+  while belonging and aligning to the same LutaML stack.
+
+* The colors of the image are sourced directly from the color palette of the
+  of the porcelain of the Ming dynasty Cheng-Hua period, namely, blue-white
+  porcelain (blue, white) and the three-colored porcelain (blue, green, red).
 
 == Favicon usage
 
