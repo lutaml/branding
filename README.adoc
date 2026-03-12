@@ -1,0 +1,47 @@
+= LutaML branding repository
+
+== Purpose
+
+This is the official repository for the identity of the LutaML project.
+
+LutaML is a universal data modeller that facilitates the following use cases:
+
+* A universal language for representing data models
+
+* A universal language for representing data model instances
+
+* Transmodeling of data modelling languages, such as from UML to/from other
+  formats
+
+* Schema generation from data modelling languages to serialization models
+
+* Parsing serializations into serialization models and transformation of them
+  back to data model instances
+
+
+== Logo design
+
+The LutaML graphical logo is represented through:
+
+* a set of 9 stacked boxes, where each box represents the abstraction of data.
+  The arrangement of the boxes in a grid echos the ability of data models to
+  dictate data into a certain shape.
+
+* The color theme is brownish/yellow, which is the color of earth. The name
+  "LutaML" originates from the Latin word "lutam", for "clay", to reflect that
+  the LutaML stack is inherently designed to be malleable and flexible in
+  creating containers or molding like clay.
+
+* 7 of the 9 boxes are colored in brownish/yellow to reflect the shape
+  characteristic of the Han character "土", indicating its basic mission and
+  the ability to be the foundation of data modelling and processing.
+
+* 2 of the 9 boxes are at the edge and are in blue/red colors. The brighter
+  colors indicate that they are extensions of the foundational models and serve
+  different purposes while belonging and aligning to the same LutaML stack.
+
+
+== Copyright
+
+Ribose. All rights reserved.
+
